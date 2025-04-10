@@ -1,8 +1,8 @@
-## Blogsphere (Create AI-powered blogs effortlessly)
+## Imran's Blog (Create AI-powered blogs effortlessly)
 
-#### blogging website made with reactjs, express and mongdb. create blog content with google's gemini.
+#### blogging website made with reactjs, express and mongdb. create blog content with AI.
 
-#### Includes complete user management, google's gemini ai and razorpay integrations.
+#### Includes complete user management,ai and razorpay integrations.
 
 ![App Screenshot](https://mir-s3-cdn-cf.behance.net/project_modules/disp/69027e213638185.6749b426d2268.png)
 
@@ -22,15 +22,11 @@
 
 If you want a more progressive backend checkout the Nestjs + React Repo
 
-**React + Nestjs** : [github.com/GaneshSrambikal/blog_app_react_nestjs](https://github.com/GaneshSrambikal/blog_app_react_nestjs)
 
-## Authors
+## Author
 
-- [@GaneshSrambikal](https://github.com/GaneshSrambikal)
+https://github.com/shaikimran03
 
-## Postman Collection
-
-- [blog_app_react_node](https://github.com/GaneshSrambikal/blog_app_react_node/blob/15d8a641d763d36f17ac4d6f625ce97a513fbfbb/blog_app_react_node.postman_collection.json)
 
 ## About
 
@@ -66,7 +62,6 @@ _Buy AI Credits_
 | axios              | https://www.npmjs.com/package/axios                 |
 | joi                | https://www.npmjs.com/package/joi                   |
 | jwt-decode         | https://www.npmjs.com/package/jwt-decode            |
-| google/generate-ai | https://www.npmjs.com/package/@google/generative-ai |
 | react-confetti     | https://www.npmjs.com/package/react-confetti        |
 | react-icons        | https://www.npmjs.com/package/react-icons           |
 | react-router-dom   | https://www.npmjs.com/package/react-router-dom      |
@@ -91,7 +86,7 @@ _Buy AI Credits_
 #### Clone / fork the repo
 
 ```bash
-  git clone https://github.com/GaneshSrambikal/blog_app_react_node.git
+  git clone https://github.com/shaikimran03
 ```
 
 #### Frontend (cd frontend)
