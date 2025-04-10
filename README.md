@@ -12,8 +12,6 @@
 
 **DB:** MongoDb
 
-**AI:** Google Gemini AI
-
 **Deployment:** Vercel
 
 ### Other Stacks available
