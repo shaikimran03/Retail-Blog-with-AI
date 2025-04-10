@@ -103,7 +103,7 @@ _Buy AI Credits_
 #### Clone / fork the repo
 
 ```bash
-  git clone https://github.com/shaikimran03
+  git clone https://github.com/shaikimran03/Retail-Blog-with-AI
 ```
 
 #### Frontend (cd frontend)
