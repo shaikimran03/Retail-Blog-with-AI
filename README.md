@@ -3,7 +3,6 @@
 #### blogging website made with reactjs, express and mongdb. create blog content with AI.
 
 #### Includes complete user management,ai and razorpay integrations
-
 ## Tech Stack
 
 **Client:** React
