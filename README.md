@@ -17,7 +17,6 @@
 
 If you want a more progressive backend checkout the Nestjs + React Repo
 
-
 ## Author
 
 https://github.com/shaikimran03
